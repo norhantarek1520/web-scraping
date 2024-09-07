@@ -1,0 +1,23 @@
+{
+  "name": "scrape-static-site-with-cheerio",
+  "version": "1.0.0",
+  "description": "Wen Scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norhantarek1520/web-scraping.git"
+  },
+  "author": "NOURHAN TAREK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norhantarek1520/web-scraping/issues"
+  },
+  "homepage": "https://github.com/norhantarek1520/web-scraping#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0"
+  }
+}
